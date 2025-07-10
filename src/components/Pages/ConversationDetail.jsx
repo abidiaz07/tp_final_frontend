@@ -22,7 +22,7 @@ export const ConversationDetail = () => {
     <div
       style={{
         minHeight: "100vh", // Si no le pongo esto me queda el fondo cortado
-        background: "url('/src/assets/fondo.png')",
+        background: "url('/fondo.png')",
         paddingBottom: "60px", // Sin esto me queda el input de mensajes encima del ultimo mensaje
       }}
     >

@@ -38,7 +38,7 @@ export function ConversationsList() {
           <FiSearch size={20} color="#8696a0" style={{ marginRight: 8 }} />
           <input
             type="text"
-            placeholder="Buscar"
+            placeholder="Search"
             value={search}
             onChange={(e) => setSearch(e.target.value)}
             style={{

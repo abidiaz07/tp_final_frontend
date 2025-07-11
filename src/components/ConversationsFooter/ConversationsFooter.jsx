@@ -40,15 +40,15 @@ export const ConversationsFooter = () => {
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                 <FiAlertCircle size={22} />
-                <span style={{ fontSize: 12, marginTop: 2 }}>Novedades</span>
+                <span style={{ fontSize: 12, marginTop: 2 }}>Updates</span>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                 <FiUsers size={22} />
-                <span style={{ fontSize: 12, marginTop: 2 }}>Comunidades</span>
+                <span style={{ fontSize: 12, marginTop: 2 }}>Communities</span>
             </div>
             <div style={{ display: "flex", flexDirection: "column", alignItems: "center" }}>
                 <FiPhone size={22} />
-                <span style={{ fontSize: 12, marginTop: 2 }}>Llamadas</span>
+                <span style={{ fontSize: 12, marginTop: 2 }}>Calls</span>
             </div>
         </footer>
     )
